@@ -1,0 +1,11 @@
+.items
+{
+   border-radius: 4px 0 red;
+   margin: 10px;
+}
+
+.items li.selected 
+{
+   background-color: red;
+   color:white;
+}
